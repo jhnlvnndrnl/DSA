@@ -17,13 +17,13 @@ That’s why it's perfect for mastering the fundamentals of DSA.
 ## 📘 What’s Inside
 
 Each folder contains a clean and simple implementation:
-array/ → Basic array operations
-linked_list/ → Singly linked list
-stack/ → Stack using array
-queue/ → Queue using array
-search/ → Binary search
-sort/ → Bubble sort
-tree/ → Binary tree (insert + traversal)
+- **array/** → Basic array operations  
+- **linked_list/** → Singly linked list  
+- **stack/** → Stack using array  
+- **queue/** → Queue using array  
+- **search/** → Binary search  
+- **sort/** → Bubble sort  
+- **tree/** → Binary tree (insert + traversal)  
 
 Each module includes:
 - `.h` header file (declarations)
